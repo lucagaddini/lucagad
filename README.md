@@ -25,6 +25,12 @@ I'm a Full Stack Web Developer student 👨‍💻 at #BooleanCareers, passionat
 <tr>
 <td valign="top" width="50%">
 
+<br>
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
 - 🌱 I’m currently learning **HTML5 · CSS · JavaScript · PHP · Bootstrap · Vue.Js · Laravel**
 
 - 👨‍💻 All of my projects are available at []()
