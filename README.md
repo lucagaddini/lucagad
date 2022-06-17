@@ -9,9 +9,14 @@
 
 
 <h1 align="center">Hi 👋, I'm Luca Gaddini</h1>
-<h4 align="center">I'm a #BooleanCareers Student passionate about Tech, Photography and Programming.</h4>
 
-🌱 I’m currently learning **HTML5 · CSS · JavaScript · PHP · Bootstrap · Vue.Js · Laravel**
+## 🚀 About Me
+I'm a Full Stack Web Developer student at #BooleanCareers, passionate about Tech, Photography, TV Series, Movies and Programming.
+
+- 🌱 I’m currently learning **HTML5 · CSS · JavaScript · PHP · Bootstrap · Vue.Js · Laravel**
+- 👨‍💻 All of my projects are available at []()
+
+## 🛠 Skills
 
 <div class="programming_box">
   <h5 align="left">Programming Languages:</h5>
@@ -49,13 +54,14 @@
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 </p>
 
-<h5 align="left">Connect with me:</h5>
-<p align="left">
-  <a href="https://linkedin.com/in/lucagaddini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucagaddini" height="30" width="40" /></a>
-  <a href="https://instagram.com/luca.gaddini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luca.gaddini" height="30" width="40" /></a>
-</p>
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](#)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucagaddini)
+[![instagram](https://img.shields.io/badge/instagram-dd5a49?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/luca.gaddini)
+<br>
+![GitHub followers](https://img.shields.io/github/followers/lucagad?style=social)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucagad&label=Profile%20views&color=0e75b6&style=flat" alt="lucagad" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucagad&label=Profile%20views&color=0e75b6&style=flat" alt="lucagad" /> </p> -->
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucagad&show_icons=true&locale=en&layout=compact" alt="lucagad" /></p>
 
 
