@@ -19,31 +19,12 @@
 ## 🚀 About Me
 I'm a Full Stack Web Developer student 👨‍💻 at #BooleanCareers, passionate about Tech, Photography, TV Series, Movies and Programming.
 
-<br>
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-<br>
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
 - 🌱 I’m currently learning **HTML5 · CSS · JavaScript · PHP · Bootstrap · Vue.Js · Laravel**
-
 - 👨‍💻 All of my projects are available at []()
 
-</td>
-<td valign="top" width="50%">
-
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+  <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 20%" />
 </div>  
-</td>
-</tr>
-</table> 
 
 <br>
 
