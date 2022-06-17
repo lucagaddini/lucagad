@@ -59,9 +59,8 @@ I'm a Full Stack Web Developer student at #BooleanCareers, passionate about Tech
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucagaddini)
 [![instagram](https://img.shields.io/badge/instagram-dd5a49?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/luca.gaddini)
 <br>
-![GitHub followers](https://img.shields.io/github/followers/lucagad?style=social)
+[![GitHub followers](https://img.shields.io/github/followers/lucagad?style=social)](#)
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucagad&label=Profile%20views&color=0e75b6&style=flat" alt="lucagad" /> </p> -->
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucagad&show_icons=true&locale=en&layout=compact" alt="lucagad" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucagad&show_icons=true&locale=en&layout=compact" alt="lucagad" /></p> -->
 
 
