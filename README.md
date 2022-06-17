@@ -8,13 +8,38 @@
 </head>
 
 
-<h1 align="center">Hi 👋, I'm Luca Gaddini</h1>
+## Hey 👋, I'm Luca Gaddini!
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](#)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucagaddini)
+[![instagram](https://img.shields.io/badge/instagram-dd5a49?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/luca.gaddini)
+
+<br>
 
 ## 🚀 About Me
 I'm a Full Stack Web Developer student at #BooleanCareers, passionate about Tech, Photography, TV Series, Movies and Programming.
 
+<br>
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
 - 🌱 I’m currently learning **HTML5 · CSS · JavaScript · PHP · Bootstrap · Vue.Js · Laravel**
+
 - 👨‍💻 All of my projects are available at []()
+
+</td>
+<td valign="top" width="50%">
+
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+</td>
+</tr>
+</table> 
+
+<br>
 
 ## 🛠 Skills
 
@@ -28,7 +53,7 @@ I'm a Full Stack Web Developer student at #BooleanCareers, passionate about Tech
 </div>
 
 <div class="frontend_box">
-<h5 align="left">Frontend Development:</h5>
+  <h5 align="left">Frontend Development:</h5>
  <div class="frontend_elements">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
@@ -38,27 +63,32 @@ I'm a Full Stack Web Developer student at #BooleanCareers, passionate about Tech
   </div>
 </div>
 
-<h5 align="left">Backend Development:</h5>
-<p align="left">
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> 
-</p>
+<div class="backend_box">
+  <h5 align="left">Backend Development:</h5>
+  <div class="backend_elements">
+    <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> 
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+  </div>
+</div>
 
+<div class="database_box">
+  <h5 align="left">Database:</h5>
+  <div class="database_elements">
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+ </div>
+</div>
 
-<h5 align="left">Database:</h5>
-<p align="left">
- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-</p>
+<div class="software_box">
+  <h5 align="left">Software:</h5>
+  <div class="software_elements">
+    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
+    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
+    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+  </div>
+</div>
 
-<h5 align="left">Software:</h5>
-<p align="left">
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-</p>
-
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](#)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucagaddini)
-[![instagram](https://img.shields.io/badge/instagram-dd5a49?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/luca.gaddini)
 <br>
+
 [![GitHub followers](https://img.shields.io/github/followers/lucagad?style=social)](#)
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucagad&show_icons=true&locale=en&layout=compact" alt="lucagad" /></p> -->
