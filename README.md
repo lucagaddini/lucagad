@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Web Developer | Software Developer
 ----------------------------------------------------------
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](http://www.lucagaddini.com)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucagaddini)
 
 * 🌍  I'm based in Lucca
-* ✉️  You can contact me at [hello@lucagaddini.com](mailto:hello@lucagaddini.com)
+
+
 
 ### 💻 Tech Stack
 
@@ -29,6 +29,7 @@ Full Stack Web Developer | Software Developer
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+
 
 ## ☁ ️Other tools
 
